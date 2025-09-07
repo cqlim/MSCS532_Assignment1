@@ -15,7 +15,6 @@ def insertion_sort_desc(arr):
 
     return arr
 
-
 # Example usage
 data = [12, 4, 56, 7, 23, 89, 1]
 print("Original list:", data)
